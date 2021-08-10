@@ -8,12 +8,9 @@ function FirstComponent()
        <React.Fragment>
 
       <div>
-           
-      </div>
 
-      <div>
-
-          <h2>  This is my First component</h2>
+      <h2>  This is my first component using function component. </h2>
+    
       </div>
 
 
